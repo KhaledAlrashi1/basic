@@ -1,2 +1,3 @@
-# basic C++ programs
-I created this repository to write and gather basic C++ programs.  I just started learning about C++ and excited to share you with the simple programs I'll write. You may feel free to use any of the programs in the repository.
+# C++ programs
+
+I created this repository to upload any C++ program I write. I'm interested in learning about the programming language C++. I'll explain each program clearly during the learning process so that anyone interested might also learn. You can use any of the programs in the repository.
